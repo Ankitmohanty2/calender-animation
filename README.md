@@ -2,6 +2,7 @@
 
 A high-fidelity, interactive task management widget designed for professional workflows. This project focuses on high-performance animations and advanced visual feedback mechanisms.
 
+
 ## Core Features
 
 - Dynamic Task Management: Interactive task list with smooth state transitions and accessible checkboxes.
