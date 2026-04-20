@@ -7,6 +7,7 @@ import arrowRightSrc from "./assets/arrow-right.svg";
 import chevronDownSrc from "./assets/chevron-down.svg";
 import closeSrc from "./assets/close.svg";
 
+
 const SPRING = { type: "spring" as const, stiffness: 240, damping: 22 };
 const SPRING_SOFT = { type: "spring" as const, stiffness: 200, damping: 24 };
 const SPRING_PRESS = { type: "spring" as const, stiffness: 500, damping: 28 };
